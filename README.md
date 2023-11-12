@@ -1,4 +1,5 @@
 # Shuffle
+This is my first ever project written in C++ enjoy.
 
 ## Files
 ## List.cpp
